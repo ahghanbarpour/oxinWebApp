@@ -1,0 +1,15 @@
+F:\oxinWebApp\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+F:\oxinWebApp\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+F:\oxinWebApp\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\oxinWebApp\BLL\bin\Debug\netcoreapp3.1\be.dll
+F:\oxinWebApp\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\oxinWebApp\BLL\bin\Debug\netcoreapp3.1\be.pdb
+F:\oxinWebApp\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\oxinWebApp\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+F:\oxinWebApp\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\oxinWebApp\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+F:\oxinWebApp\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+F:\oxinWebApp\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+F:\oxinWebApp\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+F:\oxinWebApp\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+F:\oxinWebApp\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
